@@ -34,13 +34,13 @@ One of the requirents on the KPI's is to show the monthly trend of each year, th
 
 - **PROJECT REQUIREMENTS**
 The client requires a dashboard showing Road Accidents in the year 2021 and 2021 so that they can gain insight on the below requirements:
--- **Primary KPI**: Total Casualties that took place
--- **Primary KPI's**: Total Casualties and percentage of total casualties with respect to the accident severity and the maximum casualties based on type of vehicle
--- **Secondary KPI's**: Total casualties with respect to vehicle type
--- Monthly trend showing a comparison of casualties for the Current and Previous year
--- Maximum casualties by road type
--- Distribution of total casualties by Road Surface
--- Relationship between Casualties by Area/ Location  and by Day/Night
+-**Primary KPI**: Total Casualties that took place
+-**Primary KPI's**: Total Casualties and percentage of total casualties with respect to the accident severity and the maximum casualties based on type of vehicle
+-**Secondary KPI's**: Total casualties with respect to vehicle type
+-Monthly trend showing a comparison of casualties for the Current and Previous year
+-Maximum casualties by road type
+-Distribution of total casualties by Road Surface
+-Relationship between Casualties by Area/ Location  and by Day/Night
 
 **DASHBOARD CREATION**
 A new worksheet named 'Dashboard' was created, placeholders were created and then all the charts that were created in the previous steps were inserted in the placeholder to create the full dashboard.
